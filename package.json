@@ -1,0 +1,16 @@
+{
+  "name": "costco-alert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.4",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "undici": "^5.22.1"
+  }
+}
